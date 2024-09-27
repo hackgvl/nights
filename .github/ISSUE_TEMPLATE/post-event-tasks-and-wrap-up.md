@@ -1,9 +1,9 @@
 ---
 name: Post-event Tasks and Wrap-up
 about: Template for organizing post-event tasks for HG Nights
-title: 202_ Q_ - Post-event Tasks and Wrap-up
-labels: ''
-assignees: ''
+title: 202_ Q_ Event - Post-event Tasks and Wrap-up
+labels: nights
+assignees: allella
 
 ---
 

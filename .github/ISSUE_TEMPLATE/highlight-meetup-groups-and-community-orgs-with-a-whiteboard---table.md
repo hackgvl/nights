@@ -2,7 +2,8 @@
 name: Highlight Meetup Groups and Community Orgs with a Whiteboard / Table
 about: Template for organizing an organization promotion table / board for HG Nights
   issue template's purpose here.
-title: 202_ Q_ - Highlight Meetup Groups and Community Orgs with a Whiteboard / Table
+title: 202_ Q_ Event - Highlight Meetup Groups and Community Orgs with a Whiteboard
+  / Table
 labels: nights
 assignees: chruck
 
