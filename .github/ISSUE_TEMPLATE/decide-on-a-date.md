@@ -1,9 +1,9 @@
 ---
 name: Decide on a Date
 about: Template for deciding on a date for the next HG Nights
-title: ''
-labels: ''
-assignees: ''
+title: HG Nights - 202_ Q_ Event - Decide on a Date
+labels: nights
+assignees: allella
 
 ---
 
