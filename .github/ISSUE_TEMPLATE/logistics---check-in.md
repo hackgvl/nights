@@ -1,13 +1,13 @@
 ---
 name: Logistics - Check-in
-about: Describe this issue template's purpose here.
+about: Template for organizing check-in logistics for HG Nights
 title: 202_ Q_ Event - Logistics - Check-in
 labels: nights
 assignees: allella, pamelawoodbrowne
 
 ---
 
-See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) issues for past notes and context.
+See our earlier [Logistics - Check-in](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) issues for past notes and context.
 
 ## Tasks (At the Event Venue)
 - [ ] Setup a check-in table with pre-printed name tags (Jim will bring name tags)
@@ -27,6 +27,3 @@ See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=check-in+
   - [ ] Before the event starts, give any security guards a heads-up to expect guests
   - [ ] Offer the security guard food
   - [ ] Confirm with security guard if they will be at the desk after 6 PM. If not, confirm that it's alright to but a sign on the front door directing guests to the parking deck entrance
-
-## Notes
-[Pilot event notes](https://docs.google.com/document/d/106st3E4nNViZhedZ6N2ZJE9W0J_wvN0-0VmZjQftio0/edit#heading=h.plt13akfxp0s) include a list of specific tasks and ideas:

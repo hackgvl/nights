@@ -1,6 +1,6 @@
 ---
 name: Food & Drink Planning
-about: Define a template for HackGreenville Nights food and drinks.
+about: Template for organizing food and drinks for HG Nights
 title: HG Nights - 202_ Q_ Event - Food & Drink Planning
 labels: nights
 assignees: allella

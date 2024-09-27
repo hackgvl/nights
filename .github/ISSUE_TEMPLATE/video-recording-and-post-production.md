@@ -1,6 +1,6 @@
 ---
 name: Video Recording and Post-production
-about: Describe this issue template's purpose here.
+about: Template for organization Video Recording and Post-production for HG Nights
 title: 202_ Q_ Event - Video Recording & Post-production
 labels: nights
 assignees: oliviasculley

@@ -1,7 +1,7 @@
 ---
 name: Sponsorship
-about: This is a placeholder issue that directs to any open, internal issues regarding
-  HackGreenville Nights sponsorship on the meta repo.
+about: Template placeholder issue to direct sponsorship for HG Nights to the more
+  private meta repo issue.
 title: HG Nights - 202_ Q_ Event - Sponsorship
 labels: nights
 assignees: allella, pamelawoodbrowne
