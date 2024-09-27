@@ -7,18 +7,18 @@ assignees: allella
 
 ---
 
-##Notes
+## Notes
+
 - Review our talk submissions that came in through the [official form](https://hackgreenville.com/hg-nights). 
 - See earlier [Speakers & Format Planning](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) issues for other ideas for speakers and past context.
 - The [pilot notes contain potential speakers, and potential future speakers / ideas / topics](https://docs.google.com/document/d/106st3E4nNViZhedZ6N2ZJE9W0J_wvN0-0VmZjQftio0/edit#heading=h.5kzk7h2e7g65).
 
 ## Confirmed Speakers
 
-- # mins  | Speaker Name | Talk Title | Talk Description
-- # mins  | Speaker Name | Talk Title | Talk Description
-- # mins  | Speaker Name | Talk Title | Talk Description
-- # mins  | Speaker Name | Talk Title | Talk Description
-
+-  mins  | Speaker Name | Talk Title | Talk Description
+-  mins  | Speaker Name | Talk Title | Talk Description
+-  mins  | Speaker Name | Talk Title | Talk Description
+-  mins  | Speaker Name | Talk Title | Talk Description
 
 ## Rough Schedule
 
