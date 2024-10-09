@@ -19,7 +19,7 @@ See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion
   - [ ] Add RefactorGVL text link to the bottom of the event description.
   - [ ] Food menu
   - [ ] Schedule
-- [ ] When referencing the sponsor (Slack, Meetup, etc), it's best to do so as a hyperlink to their website so viewers don't need to search for the sponsor, or risk finding the wrong site.
+- [ ] When referencing the sponsor (Slack, Meetup, etc), include a hyperlink to their homepage.  This will help viewers and [avoid linking to a specific product or service](https://www.councilofnonprofits.org/running-nonprofit/administration-and-financial-management/tax-treatment-income-received-corporate).
 - [ ] Publish the Meetup listing and approve the announcement
 - [ ] [Add date and speakers to HG Nights website page](https://hackgreenville.com/hg-nights).
 - [ ] (Pam) _HG Nights_ themed Graphic with the schedule, sponsor logos / recognition, for large TV
