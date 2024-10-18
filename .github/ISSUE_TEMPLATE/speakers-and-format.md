@@ -14,10 +14,10 @@ assignees: allella
 
 ## Confirmed Speakers
 
-- # mins  | Speaker Name | Talk Title | Talk Description
-- # mins  | Speaker Name | Talk Title | Talk Description
-- # mins  | Speaker Name | Talk Title | Talk Description
-- # mins  | Speaker Name | Talk Title | Talk Description
+- mins  | Speaker Name | Talk Title | Talk Description
+- mins  | Speaker Name | Talk Title | Talk Description
+- mins  | Speaker Name | Talk Title | Talk Description
+- mins  | Speaker Name | Talk Title | Talk Description
 
 
 ## Rough Schedule

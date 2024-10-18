@@ -36,7 +36,7 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 - [ ] Get commitments from volunteers for the upcoming event
 - [ ] Ask volunteers to RSVP to the event
 - [ ] Connect with volunteers and share necessary tasks / details with them
-- [ ] Confirm about with any video recording volunteers
+- [ ] Confirm about any special needs for the video recording volunteer(s)
 - [ ] Communicate with volunteers about when they need to arrive, tasks, and such
 - [ ] Ask volunteers to raise their hand at the event if they see a speaker or other volunteers with a hand up. This worked well at the Feb 2024 event to interrupt the crowd without having to do so abruptly.
 - [ ] Communicate with volunteers about where to park to unload and how to get into the building if they arrive before the doorbell is up.

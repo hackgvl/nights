@@ -33,7 +33,7 @@ See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion
 - [ ] Invite local writers / journalists to attend and cover the event
 - [ ] Share on any social media accounts
 - [ ] Have organizers share on their own social media accounts
-- [ ] Carolina Code Conference will promote to their audience - contact Barry Jones
+- [ ] Considering mentioning any upcoming conferences
 - [ ] Swag - HackGreenville and/or Sponsor swag table
 - [ ] A day or so before the event, send a follow-up announcement to those who registered with:
   - [ ] Directions
