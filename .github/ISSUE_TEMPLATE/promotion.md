@@ -26,7 +26,7 @@ See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion
 - [ ] Update Meetup page with the speakers and agenda by using a "Comment" on the event, not a message to the entire membership
 - [ ] Announce in the #events Slack channel
 - [ ] Announce on OpenWorks’ Basecamp
-- [ ] Don't bother posting on /r/greenville Reddit since they flagged our post in Oct 2024 and directed to a hard to find weekly post.
+- [ ] Announce HG Nights on the local Reddit, but NOT as a standalone post (which they may flag). Post as a comment to [the latest "What's Happening in Greenville?" post](https://www.reddit.com/r/greenville/search/?q=what%27s+happening+in+greenville&t=week).
 - [ ] Share via on other community boards / mailing lists - Synergy Mill, Beer & Napkins, StartUpGVL Slack, any other Meetup groups?
 - [ ] Ask Carolina Code School / Build Carolina to promote to their audience - ask Lauren McGlamery
 - [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
