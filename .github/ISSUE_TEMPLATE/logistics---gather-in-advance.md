@@ -24,7 +24,6 @@ See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/night
   - [ ] Gather "neon" signs - Olivia created plug-in small neon color signs for HG Labs, HG Nights, and HackGreenville - These are plug-in and operated with the corresponding remotes. These are stored at OpenWorks. They do work on batteries, but none are currently in them.
 
 ## Speakers / Presenters
-- [ ] Gather extension cords and power strips. Be sure the amperage and outlet distribution are sufficient for the load for any higher load appliances (ovens, crockpots, hot plates, microwave)
 - [ ] Gather any audio, video cables, whiteboards, dry erase markers, erasers, podiums, time clocks, or video adapters that may be needed
 - [ ] Export a guest list from Meetup by clicking “Manage Attendees” from the event page. Then, on the attendee’s page, click the “Manage Attendees” button and there’s an option to download a spreadsheet. Requires "Organizer" role on Meetup.com, but this works even without a "Pro" account.
 - [ ] Print and gather name tags.
@@ -34,6 +33,7 @@ See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/night
 - [ ] Print a check-in list from Meetup.com.
 
 ## Food
+- [ ] Gather extension cords and power strips. Be sure the amperage and outlet distribution are sufficient for the load for any higher load appliances (ovens, crockpots, hot plates, microwave)
 - [ ] Gather, sanitize, and bring any knives, cutting boards, can openers, food processors, and other food preparing tools as needed
 - [ ] Gather all serving bowls, utensils, spoon rests for messy spoons 
 - [ ] Gather any to-go containers needed to store leftover food and/or to-go boxes to have volunteers or guests take home extra food. 
