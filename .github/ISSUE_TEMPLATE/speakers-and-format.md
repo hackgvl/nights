@@ -50,6 +50,7 @@ assignees: allella
 - [ ] (Jim has a template) Connect with speakers over Slack to share details (audio / video setup, share Wi-Fi details, time slots, attendee expectations (like expecting people to come and go during the talks), video recording, [where to park and how to enter the building](https://joinopenworks.com/guest-access)
 - [ ] Ask if speakers need any special equipment, like power cords, whiteboards & markers, podium, audio speakers, time clocks, projector
 - [ ] Suggest that speakers come early to test Wi-Fi, video, and other connections
+- [ ] Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording
 
 ## Tasks (At the Event Venue)
 - [ ] Take a photo of the space before hand so things can be put back where they were
@@ -63,3 +64,5 @@ assignees: allella
 - [ ] Double-check that the presenters brought proper HDMI to Laptop adapters
 - [ ] Turn on TVs and set to the correct “source”
 - [ ] Remind speakers to test the HDMI and do a dry run to make sure they have what they need
+- [ ] Setup podium
+- [ ] Turn off any load equipment in / near the room, like white noise systems or HVAC fans

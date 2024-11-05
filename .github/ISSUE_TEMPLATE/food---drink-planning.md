@@ -11,6 +11,7 @@ See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues
 
 ### Notes
 - The [SnackGreenville document](https://docs.google.com/document/d/1ZBEl61eH4kB6NVHqjrlEgnYyRrfONAyJoQXFcH5muaQ/edit#heading=h.374owrq3m4r2) has recent history, including the prices and amounts used for the HG Nights pilot taco bar.
+- For estimating, see our [past Event Attendance, Cancel, No Show, Walk-in, Food Eaten count and ratios doc](https://docs.google.com/spreadsheets/d/1ddyknPjweYzK-vJ2YWujshVpZGJWo9UVzfldlg8usmc/edit?gid=0#gid=0)
 - At a past event we had 5 out of 75 attendees indicate a dietary allergy / constraint, including: peanut, pecan, dairy, vegan, and vegetarian concerns. This confirms we should avoid some ingredients, or else have at least one option which will satisfy these types of concerns.
 
 ### Menu
@@ -30,6 +31,7 @@ See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues
   - eric1234 - Eric Anderson
   - allella - Jim Ciallella
   - TwonkyHardware - Joel Griffith
+  - alexdresko - Alex Dresko
   - Sally Anderson
   - See the [past volunteer](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) threads for more details.
 
@@ -44,7 +46,7 @@ If we need these to keep things warm, then people offered.
 - Volunteers making food will have a set amount per batch based on the assumed number of guests they will be feeding
 - Catering and recipes can typically be cut by 25-40%, as noted in the _SnackGreenville_ document (link above)
 - Earlier events have range from 55 to 75 people and not everyone will eat
-- Volunteers will be reimbursed through _[Expensify](https://www.expensify.com/)_. Reimbursement is usually handled after the event.
+- Volunteers will be reimbursed by RefactorGVL by check as part of the [Post-Event Tasks and Wrap-up](https://github.com/hackgvl/nights/issues?q=wrap-up+in%3Atitle+is%3Aissue+is%3Aopen).
 
 ### Other Food and Desserts
 - Toppings
@@ -70,9 +72,10 @@ If we need these to keep things warm, then people offered.
 - [ ] Determine if drinks can be refrigerated in advance, or if ice and ice bins are needed. - Jim has some 6" tall plastic totes which we've used in the past to ice drinks, and they could be used upon request.
 - [ ] Determine if any prepared food needs to be refrigerated and confirm there is space - OpenWorks has a large and small refrigerator and there is typically space as long as the refrigerators have been cleaned out of old stuff
 - [ ] Determine if a freezer is needed and available at the venue. - OpenWorks has a very small freezer, so we'd definitely need to verify space in advance.
+- [ ] Determine if any convection ovens, hot plates, or insulating pads / coolers are need to keep food warm
+
 - [ ] Purchase any food, drinks, plates, napkins, etc in advance
-- [ ] Purchase volunteer beer and any special volunteer snacks.  A 15 mix pack of Oskar Blues beer is usually enough. 
-- [ ] Reimburse any volunteers for budgeted food costs
+- [ ] Purchase volunteer beer and any special volunteer snacks.  A 15 mix pack. like Oskar Blues, is usually enough. 
 
 ### Tasks (At the Event Venue)
 - [ ] Prepare any food that’s being made on-site
@@ -82,9 +85,9 @@ If we need these to keep things warm, then people offered.
 - [ ] Put forks or spoons in a container, like a mason jar, or small bowl, with the handles facing up / out so people can grab them by the handle.
 - [ ] Avoid putting any very hot items directly on the wood counter tops. Use a trivet or other something under hot items. 
 - [ ] Move the trash and recycling cans out of the way, but still in a visible spot.
-- [ ] Setup a bus bucket near the trash cans for dirty utensils / dishes
+- [ ] Setup a bus bucket and tape sign **(not on drywall)** near the trash cans for dirty utensils / dishes
 - [ ] Setup any food heating (ovens, crockpots, hot plates, microwave) or chilling equipment using heavy power cords if needed and try to not put everything on the same circuit, if / when it's possible to tell.
-- [ ] Setup drinks, ice, cups on a rolling table at the very end of the food line, or even near the check-in, so people aren't trying to hold a drink while they are making a plate. We'll likely roll this drink table out of the kitchen and into OpenWorks' Social Lounge for the later half of the event.
+- [ ] Setup drinks, ice, cups on a rolling table near the check-in
   - Cans
     1. [ ] Setup cans - Ideally, keep cans in the cardboard boxes and open 1/2 of one end of the box and put something under the rear of the box so the cans roll forward to the opening for easy grabbing.
     1. [ ] Otherwise, if cans are not cold then it may not be necessary to ice them down in a bin.

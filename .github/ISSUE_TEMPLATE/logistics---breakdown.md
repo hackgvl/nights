@@ -11,6 +11,7 @@ See our earlier [Logistics - Breakdown](https://github.com/hackgvl/nights/issues
 
 - [ ] Invite security and housekeepers to have extras
 - [ ] Offer left-overs in to-go containers to volunteers before others
+- [ ] Load and run the dishwasher (instructions at OpenWorks are on the green sheet nearby)
 - [ ] Cleaning surfaces, spills, and such
 - [ ] Wash serving bowls and serving utensils
 - [ ] Load stainless forks & spoons and other items into the dishwasher (detergent pods are under the sink at OpenWorks)
