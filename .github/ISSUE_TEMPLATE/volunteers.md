@@ -12,7 +12,7 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 ### Volunteers
 - [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue)
   - Confirmed: Jim Ciallella
-  - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson
+  - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Austin Moede, Creighton Magoun, Alex Dresko
 - [Video](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue)
   - Confirmed: Olivia Sculley
   - Unconfirmed / Past: Joey Loman, Matt Thornton
