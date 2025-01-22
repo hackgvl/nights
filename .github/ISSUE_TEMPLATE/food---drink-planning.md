@@ -22,7 +22,29 @@ See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues
 - Sandwich & Sliders Bar
 - Potato Bar
 - Soup Bar
-- See [Joel G's link to a Reddit Thread](https://github.com/hackgvl/nights/issues/17#issuecomment-2098306696)
+- Via [Joel G's link to a Reddit Thread](https://github.com/hackgvl/nights/issues/17#issuecomment-2098306696)
+  - Brunch Bar
+  - Soup Bar
+  - Greek / Mediterranean / Mezze Bar - falafel, kofta, kebabs, couscous, tabbouleh, hummus, a bunch of dips, pita, flat bread, olives, etc.
+  - Banh Mi Bar
+  - Nacho Bar
+  - Rice Bowl Bar
+  - Tapas Bar - east Indian or Middle Eastern mentioned
+  - Asian-style Bar - Teriyaki chicken, Mongolian beef, kung Pao shrimp with lo mein noodles, rice, assorted stir fry veggies
+  - Seafood Boil
+  - Hot Dog / Sausage Bar
+  - Shawarma Bar
+  - PBJ - different breads, nut butters, cream cheese, jellies, marshmallow fluff, honey, granola, sliced fruit like strawberries and bananas.
+  - Ramen Cup bar - different ramens, soft boiled eggs, mushrooms/veggies/meats, crunchy garnishes like seaweed and crispy onions, and chili oil/sesame oil.
+  - Kebab / Skewer Bar
+  - BBQ Bar
+  - Salad Bar - chopped vegetables, diced avocado, mandarin orange segments, proteins (grated cheese, diced chicken, tuna in oil, lentils, chickpeas, etc), nuts and seeds (sunflower seeds, pepitas, cashews, slivered almonds, etc), and crunchy carb bits like croutons, crushed tortilla chips, fried wonton strips or chow mein noodles. Provide an assortment of quality salad dressings (ex: Asian sesame vinaigrette, Southwest, poppyseed, etc). Aim for a mix of vinaigrettes and creamy dressings such as yogurt-based ones. Try a colourful coleslaw or broccoli slaw base, as well as mixed greens (lettuces)
+  - Pasta Bar - 2-3 sauces, chicken, bacon, Italian sausage, pepperoni, assorted cheeses, fresh herbs, steamed broccoli, roasted cauliflower, fresh or sautéed spinach, roasted garlic, buttered breadcrumbs.
+  - Pierogies Bar
+  - Meatball Bar - greek, asian, italian mentioned
+  - Grilled Cheese Bar - not sure this is practical without an legit kitchen
+  - Quesadilla Bar - not sure this is practical without an legit kitchen
+  - Poutine bar
 
 ### Food Volunteers
 - Confirmed:
