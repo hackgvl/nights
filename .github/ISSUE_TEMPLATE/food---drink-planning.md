@@ -48,14 +48,7 @@ See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues
 
 ### Food Volunteers
 - Confirmed:
-- Unconfirmed / Past:
-  - sirbeep - Brian Kennedy
-  - eric1234 - Eric Anderson
-  - allella - Jim Ciallella
-  - TwonkyHardware - Joel Griffith
-  - alexdresko - Alex Dresko
-  - Sally Anderson
-  - See the [past volunteer](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) threads for more details.
+- Unconfirmed / Past: see the [past volunteer](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) threads for more details
 
 ### Hot Plates,  Slow Cookers, Griddle
 If we need these to keep things warm, then people offered.
