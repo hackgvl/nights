@@ -12,16 +12,16 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 ### Volunteers
 - [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue)
   - Confirmed: Jim Ciallella
-  - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Austin Moede, Creighton Magoun, Alex Dresko
+  - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Alex Dresko, Ryan McAllen, Creighton Magoun
 - [Video](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue)
   - Confirmed: Olivia Sculley
   - Unconfirmed / Past: Joey Loman, Matt Thornton
 - [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)
   - Confirmed: Jim Ciallella
-  - Unconfirmed / Past: Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Jack Brackley, Alex Dresko
+  - Unconfirmed / Past: Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Austin Moede, Jack Brackley, Alex Dresko
 - [Setup / Check-in](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue)
   - Confirmed:
-  - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Jack Brackley, Alex Dresko
+  - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Jack Brackley, Alex Dresko, Austin Moede
 - [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue)
   - Confirmed:
   - Unconfirmed / Past: Jas Eckard
