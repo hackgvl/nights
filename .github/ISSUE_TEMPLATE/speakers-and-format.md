@@ -7,11 +7,6 @@ assignees: allella
 
 ---
 
-##Notes
-- Review our talk submissions that came in through the [official form](https://hackgreenville.com/hg-nights). 
-- See earlier [Speakers & Format Planning](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) issues for other ideas for speakers and past context.
-- The [pilot notes contain potential speakers, and potential future speakers / ideas / topics](https://docs.google.com/document/d/106st3E4nNViZhedZ6N2ZJE9W0J_wvN0-0VmZjQftio0/edit#heading=h.5kzk7h2e7g65).
-
 ## Confirmed Speakers
 
 - mins  | Speaker Name | Talk Title | Talk Description
@@ -39,11 +34,19 @@ assignees: allella
 
 
 ## Tasks (In-advance)
-- [ ] Reach out to speakers who have previously expressed interest and invite them to fill out the [Talk Submission form](https://forms.gle/gudqeQwpjQmR7QLV6).
-- [ ] Post a call for speaker / talk submissions in #community-organizers directing people to fill out the [Talk Submission form](https://forms.gle/gudqeQwpjQmR7QLV6)
-- [ ] If needed, post a call for speaker / talk submissions in #general or #random a week or so after posting in #community-organizers
-- [ ] Offer lightning talks to organizers of groups which are on hiatus or which have low attendance
-- [ ] If needed, ask community partners to promote the call for speakers to their relevant audience
+- [ ] Review the [HG Nights talk submissions spreadsheet](https://docs.google.com/spreadsheets/d/1jOvH-iBS9c84flUriNKxrvy25KTS8FnhHuto4PkaXt4/edit?gid=359534720#gid=359534720).  If there are more speakers than slots, then a suggested order of offering is:
+  - [ ] First-time speakers with an official submission
+  - [ ] Unofficial submissions (ideas gathered from Slack conversations) for first-time speakers
+  - [ ] Official submissions from prior speakers
+  - [ ] Unofficial submissions from prior speakers
+  - [ ] If a tie-breaker is needed, then consult the "Topics of Interest" collected from the prior event RSVPs
+  - [ ] If multiple talks are on the same / overlapping topic, then consider an overlapping talk at a future event.
+- [ ] If more talk submissions are still needed:
+  - [ ] Reach out to speakers who have previously expressed interest, but haven't submitted a talk, and invite them to fill out the [Talk Submission form](https://forms.gle/gudqeQwpjQmR7QLV6)
+  - [ ] Post a call for speaker / talk submissions in #community-organizers directing people to fill out the [Talk Submission form](https://forms.gle/gudqeQwpjQmR7QLV6)
+  - [ ] Post a call for speaker / talk submissions in #general or #random a week or so after posting in #community-organizers
+  - [ ] Offer lightning talks to organizers of groups which are on hiatus or which have low attendance
+  - [ ] Ask community partners to promote the call for speakers to their relevant audience
 - [ ] Have a backup speaker for when someone is sick or can’t make it.
 - [ ] Advise speakers to come with proper video adapters to connect their laptop via HDMI
 - [ ] TODO Consider grading the talks on skill / knowledge level: newbie, intermediate, advanced and having a mix of different levels
