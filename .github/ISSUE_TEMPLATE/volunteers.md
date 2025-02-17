@@ -19,12 +19,15 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 - [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)
   - Confirmed: Jim Ciallella
   - Unconfirmed / Past: Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Austin Moede, Jack Brackley, Alex Dresko
-- [Setup / Check-in](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue)
+- [Setup](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue)
   - Confirmed:
   - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Jack Brackley, Alex Dresko, Austin Moede
+- [Check-in Table](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue)
+  - Confirmed:
+  - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Violet Kester
 - [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue)
   - Confirmed:
-  - Unconfirmed / Past: Jas Eckard
+  - Unconfirmed / Past: Jas Eckard, Paul
 - Photos
   - Confirmed:
   - Unconfirmed / Past: Violet Kester, Alan Johnson
