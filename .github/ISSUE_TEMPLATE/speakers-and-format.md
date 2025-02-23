@@ -54,6 +54,7 @@ assignees: allella
 - [ ] Ask if speakers need any special equipment, like power cords, whiteboards & markers, podium, audio speakers, time clocks, projector
 - [ ] Suggest that speakers come early to test Wi-Fi, video, and other connections
 - [ ] Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording
+- [ ] One or two days before the event, reach out to the sponsor with notes about their 2-3 minute toast. See "[HG Nights - Sponsor Communications Examples](https://docs.google.com/document/d/1WKbh_MVxDDwmUQ4HLQNd6CKACxq34Icwhnyp0mgEyUE/)" for an example.
 
 ## Tasks (At the Event Venue)
 - [ ] Take a photo of the space before hand so things can be put back where they were
