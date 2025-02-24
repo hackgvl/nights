@@ -12,28 +12,28 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 ### Volunteers
 - [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue)
   - Confirmed: Jim Ciallella
-  - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Alex Dresko, Ryan McAllen, Creighton Magoun
+  - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Alex Dresko, Ryan McAllen, Creighton Magoun, David He
 - [Video](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue)
   - Confirmed: Olivia Sculley
-  - Unconfirmed / Past: Joey Loman, Matt Thornton
-- [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)
-  - Confirmed: Jim Ciallella
-  - Unconfirmed / Past: Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Austin Moede, Jack Brackley, Alex Dresko
+  - Unconfirmed / Past: Joey Loman (equipment), Andrew Thompson (equipment), Matt Thornton
 - [Setup](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue)
   - Confirmed:
-  - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Jack Brackley, Alex Dresko, Austin Moede
+  - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Jack Brackley, Alex Dresko, Austin Moede, Archye Valdez
 - [Check-in Table](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue)
   - Confirmed:
   - Unconfirmed / Past: Pam Wood Browne, Jacob Adelberg, Violet Kester
 - [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue)
-  - Confirmed:
-  - Unconfirmed / Past: Jas Eckard, Paul
+  - Confirmed: Jas Eckard
+  - Unconfirmed / Past: Paul
+- [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)
+  - Confirmed: Jim Ciallella
+  - Unconfirmed / Past: Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Austin Moede, Jack Brackley, Alex Dresko
 - Photos
   - Confirmed:
   - Unconfirmed / Past: Violet Kester, Alan Johnson
 - [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue)
   - Confirmed:
-  - Unconfirmed / Past: Barry Jones, Ryan Lanciaux
+  - Unconfirmed / Past: Barry Jones, Ryan Lanciaux, Steven Wade
  
 ### Tasks
 - [ ] Get commitments from volunteers for the upcoming event
@@ -45,6 +45,3 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 - [ ] Communicate with volunteers about where to park to unload and how to get into the building if they arrive before the doorbell is up.
 
 ### Offered to Volunteer in the Future
-
-- Ryan MacAllan - (on hiatus) food procurement and/or sponsorship
-- Steven Wade - speaker, eventually may be able to helping with some organizing
