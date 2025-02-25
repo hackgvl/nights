@@ -30,7 +30,10 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
   - Unconfirmed / Past: Jacob Adelberg, Zach Robichaud, Bogdan Kharchenko, Matt Irby, Austin Moede, Jack Brackley, Alex Dresko
 - Photos
   - Confirmed:
-  - Unconfirmed / Past: Violet Kester, Alan Johnson
+  - Unconfirmed / Past: Bogdan Kharchenko, Violet Kester, Alan Johnson, Pam Wood Browne
+- Time Keeping
+  - Confirmed:
+  - Unconfirmed / Past: Barry Jones, Andrew Thompson
 - [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue)
   - Confirmed:
   - Unconfirmed / Past: Barry Jones, Ryan Lanciaux, Steven Wade
