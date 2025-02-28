@@ -80,6 +80,7 @@ If we need these to keep things warm, then people offered.
 - [ ] Dietary or allergy considerations - check to registration form responses
 - [ ] Instruct volunteers to save any receipts for reimbursement
 - [ ] Gather recipe ingredients so they can be printed on signs for allergy considerations
+- [ ] Create food / ingredients signs and menus using the [_TEMPLATE-hackgreenville-nights-food-ingredients-allergy-vegan-signs-signage_ and _TEMPLATE-hackgreenville-nights-food-menu-hand-out-food-signage_ templates on Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb).
 - [ ] Pay for any prepared food from vendors, either in advance, or at pickup. 
 - [ ] Check the vendor's hours of operation and pick-up details in advance
 - [ ] Communicate with volunteers

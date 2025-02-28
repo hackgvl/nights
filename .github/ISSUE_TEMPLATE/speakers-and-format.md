@@ -50,7 +50,7 @@ assignees: allella
 - [ ] Have a backup speaker for when someone is sick or can’t make it.
 - [ ] Advise speakers to come with proper video adapters to connect their laptop via HDMI
 - [ ] TODO Consider grading the talks on skill / knowledge level: newbie, intermediate, advanced and having a mix of different levels
-- [ ] (Jim has a template) Connect with speakers over Slack to share details (audio / video setup, share Wi-Fi details, time slots, attendee expectations (like expecting people to come and go during the talks), video recording, [where to park and how to enter the building](https://joinopenworks.com/guest-access)
+- [ ] Email speakers with details of audio / video setup, share Wi-Fi details, time slots, timers, attendee expectations (like expecting people to come and go during the talks), video recording, [where to park and how to enter the building](https://joinopenworks.com/guest-access) using the [_TEMPLATE-hackgreenville-nights-pre-event-speaker-reminders-questions_ template on Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb)
 - [ ] Ask if speakers need any special equipment, like power cords, whiteboards & markers, podium, audio speakers, time clocks, projector
 - [ ] Suggest that speakers come early to test Wi-Fi, video, and other connections
 - [ ] Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording

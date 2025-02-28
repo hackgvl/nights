@@ -35,7 +35,7 @@ See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion
 - [ ] Have organizers share on their own social media accounts
 - [ ] Considering mentioning any upcoming conferences
 - [ ] Swag - HackGreenville and/or Sponsor swag table
-- [ ] A day or so before the event, send a follow-up announcement to those who registered with:
+- [ ] A day or so before the event, send a follow-up announcement to those who registered using the _TEMPLATE-hackgreenville-nights-meetup-message-to-attendees_ [template on Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb):
   - [ ] Directions
   - [ ] Parking and parking deck fees
   - [ ]  Entrances / Doorbell - for OpenWorks we know have a guest access page, which could be shared in the Meetup listing and as a reminder a day or two before the event.

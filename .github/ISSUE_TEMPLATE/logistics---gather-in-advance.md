@@ -11,6 +11,7 @@ See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/night
 
 ## Check-in / Guests
 - [ ] Gather any hand sanitizer
+- [ ] Gather tape needed for signs
 - [ ] Buy / source adhesive labels and green / orange / red highlighters for the check-in list
 - [ ] Gather extra name tag sheets (use the "removable" type as the regular Avery-style tags can fall off)
 - [ ] Gather black marker for walk-in guests to write on their name tags
@@ -26,11 +27,11 @@ See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/night
 ## Speakers / Presenters
 - [ ] Gather any audio, video cables, whiteboards, dry erase markers, erasers, podiums, time clocks, or video adapters that may be needed
 - [ ] Export a guest list from Meetup by clicking “Manage Attendees” from the event page. Then, on the attendee’s page, click the “Manage Attendees” button and there’s an option to download a spreadsheet. Requires "Organizer" role on Meetup.com, but this works even without a "Pro" account.
-- [ ] Print and gather name tags.
-  - [ ] Use the "removable" labels because the regular Avery-style tags can fall off
-  - [ ] For the pilot we used Avery-compatible 5160 address labels as a fast and affordable option, since they are 30 per sheet.
-  - [ ] Jim has an existing template setup on the Avery site, which also has templates and allows for easy importing from a CSV and “mail merging” of the data, then export to PDF, and print
-- [ ] Print a check-in list from Meetup.com.
+- [ ] Print and gather name tags using the [existing templates on the Avery site](https://www.avery.com/myaccount/projects).
+  - [ ] Use Avery compatible / style 5395 or 25395 name tags
+  - [ ] Copy the attendees names from the Meetup export to the [_TEMPLATE - HG Nights Name Tag Attendee List Curated with Recognition_](https://docs.google.com/spreadsheets/d/14N1BP9ien56pc9Q3LjxuNqPUEQj08zWKnB38GR7vyLc/edit?gid=0#gid=0) on Google Drive and add any recognition columns (speaker, sponsor, volunteer, organizer, committee, board)
+  - [ ] Export a CSV from the curated attendee list and import it into the Avery site, overwriting any existing mail merge data.
+  - [ ] Export to the name tags to PDF and print
 
 ## Food
 - [ ] Gather extension cords and power strips. Be sure the amperage and outlet distribution are sufficient for the load for any higher load appliances (ovens, crockpots, hot plates, microwave)
