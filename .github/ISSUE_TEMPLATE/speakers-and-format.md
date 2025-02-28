@@ -56,17 +56,5 @@ assignees: allella
 - [ ] Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording
 - [ ] One or two days before the event, reach out to the sponsor with notes about their 2-3 minute toast. See "[HG Nights - Sponsor Communications Examples](https://docs.google.com/document/d/1WKbh_MVxDDwmUQ4HLQNd6CKACxq34Icwhnyp0mgEyUE/)" for an example.
 
-## Tasks (At the Event Venue)
-- [ ] Take a photo of the space before hand so things can be put back where they were
-- [ ] Prepare the conference rooms (move the white tables to the empty hall past the men's room at OpenWorks)
-- [ ] If opening the partition in the conference room
-  - [ ] Get Jim Ciallella to help, or else contact the security desk for help, as the wall requires special know-how and has been damaged in the past by unskilled folks messing with it.
-  - [ ] WARN people about putting their fingers in the seams
-  - [ ] WARN people to move the TVs away from the wall before folding the wall
-- [ ] Position and erase whiteboards
-- [ ] Confirm audio / video / internet is working for the presenters
-- [ ] Double-check that the presenters brought proper HDMI to Laptop adapters
-- [ ] Turn on TVs and set to the correct “source”
-- [ ] Remind speakers to test the HDMI and do a dry run to make sure they have what they need
-- [ ] Setup podium
-- [ ] Turn off any load equipment in / near the room, like white noise systems or HVAC fans
+## Tasks (At the Venue)
+See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0#heading=h.pca2joh7qaw8) (request view permission).

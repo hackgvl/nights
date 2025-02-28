@@ -92,22 +92,5 @@ If we need these to keep things warm, then people offered.
 - [ ] Purchase any food, drinks, plates, napkins, etc in advance
 - [ ] Purchase volunteer beer and any special volunteer snacks.  A 15 mix pack. like Oskar Blues, is usually enough. 
 
-### Tasks (At the Event Venue)
-- [ ] Prepare any food that’s being made on-site
-- [ ] Setup food, serving bowls, serving utensils (spoons, tongs). Setup TWO serving utensils for EACH of the main dishes so people can serve from both sides of the bar.
-- [ ] Setup bowls / plates at check-in table so people need to check-in before they can eat.
-- [ ] Setup napkins, forks / spoons at the end of the food line / upper bar, so people don't have to hold these things while they are making a plate
-- [ ] Put forks or spoons in a container, like a mason jar, or small bowl, with the handles facing up / out so people can grab them by the handle.
-- [ ] Avoid putting any very hot items directly on the wood counter tops. Use a trivet or other something under hot items. 
-- [ ] Move the trash and recycling cans out of the way, but still in a visible spot.
-- [ ] Setup a bus bucket and tape sign **(not on drywall)** near the trash cans for dirty utensils / dishes
-- [ ] Setup any food heating (ovens, crockpots, hot plates, microwave) or chilling equipment using heavy power cords if needed and try to not put everything on the same circuit, if / when it's possible to tell.
-- [ ] Setup drinks, ice, cups on a rolling table near the check-in
-  - Cans
-    1. [ ] Setup cans - Ideally, keep cans in the cardboard boxes and open 1/2 of one end of the box and put something under the rear of the box so the cans roll forward to the opening for easy grabbing.
-    1. [ ] Otherwise, if cans are not cold then it may not be necessary to ice them down in a bin.
-    - Note: If icing down the cans, put cans into any bins before pouring the ice on top. Otherwise, it’s very hard to put the cans into shallow ice.
-    - Note: Icing cans will often cause condensation, so putting a towel or thick piece of cardboard under the cold bin can help insulate the bottom and limit a wet mess
-  - [ ] If using 2-liters, then setup the bottles and cups - (Note: OpenWorks has a bunch of small foam cups in the lower cabinets opposite the bar stools)
-  - [ ] (Optionally) Setup clean ice bucket w/ drinking ice & tongs - ideally this isn't needed when serving refrigerated cans
-- [ ] When the line forms, encourage people to use both sides of the bar to double the throughput of the main course.
+## Tasks (At the Venue)
+See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0#heading=h.3hs3hbasbgqy) (request view permission).
