@@ -7,8 +7,6 @@ assignees: allella
 
 ---
 
-See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/nights/issues?q=gather+in%3Atitle+is%3Aissue) issues for past notes and context.
-
 ## Check-in / Guests
 - [ ] Gather any hand sanitizer
 - [ ] Gather tape needed for signs
@@ -49,3 +47,6 @@ See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/night
 - [ ] Mason jars, or similar container, for storing forks, spoons, knives
 - [ ] Trivets or something to put under any very hot items that might come in contact with the wood counter tops
 - [ ] Towel(s) to put under any ice bins
+
+## Past Notes
+See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/nights/issues?q=gather+in%3Atitle+is%3Aissue) issues for past notes and context.

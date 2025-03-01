@@ -9,8 +9,8 @@ assignees: chruck
 
 ---
 
-See our earlier [whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue) issues for past notes and context.
+## Tasks at the Venue
+See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0) (request view permission).
 
-### Tasks
-- [ ] Whiteboard - a rolling whiteboard available from the conference rooms at OpenWorks
-- [ ] Table - we can use one of the white rolling tables that will be removed from the conference rooms
+## Past Notes
+See our earlier [whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue) issues for past notes and context.

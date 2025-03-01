@@ -14,7 +14,6 @@ assignees: allella
 - mins  | Speaker Name | Talk Title | Talk Description
 - mins  | Speaker Name | Talk Title | Talk Description
 
-
 ## Rough Schedule
 
 6:00 - 6:20 — Food
@@ -32,8 +31,7 @@ assignees: allella
 7:30 - 7:45 — TBD
 7:45 - 8:00+ — Social and Ice Cream Bars
 
-
-## Tasks (In-advance)
+## Tasks In Advance
 - [ ] Review the [HG Nights talk submissions spreadsheet](https://docs.google.com/spreadsheets/d/1jOvH-iBS9c84flUriNKxrvy25KTS8FnhHuto4PkaXt4/edit?gid=359534720#gid=359534720).  If there are more speakers than slots, then a suggested order of offering is:
   - [ ] First-time speakers with an official submission
   - [ ] Unofficial submissions (ideas gathered from Slack conversations) for first-time speakers
@@ -56,5 +54,5 @@ assignees: allella
 - [ ] Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording
 - [ ] One or two days before the event, reach out to the sponsor with notes about their 2-3 minute toast. See "[HG Nights - Sponsor Communications Examples](https://docs.google.com/document/d/1WKbh_MVxDDwmUQ4HLQNd6CKACxq34Icwhnyp0mgEyUE/)" for an example.
 
-## Tasks (At the Venue)
-See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0#heading=h.pca2joh7qaw8) (request view permission).
+## Past Notes
+See our earlier [Post-event Tasks and Wrap-up](https://github.com/hackgvl/nights/issues?q=speakers%3Atitle+is%3Aissue) issues for past notes and context.

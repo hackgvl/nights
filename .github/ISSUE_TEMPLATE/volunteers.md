@@ -7,9 +7,7 @@ assignees: allella
 
 ---
 
-See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) issues for past notes and context.
-
-### Volunteers
+## Volunteers
 - [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue)
   - Confirmed: Jim Ciallella
   - Unconfirmed / Past: Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Alex Dresko, Ryan McAllen, Creighton Magoun, David He
@@ -38,7 +36,7 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
   - Confirmed:
   - Unconfirmed / Past: Barry Jones, Ryan Lanciaux, Steven Wade
  
-### Tasks
+## Tasks In Advance
 - [ ] Get commitments from volunteers for the upcoming event
 - [ ] Ask volunteers to RSVP to the event
 - [ ] Connect with volunteers and share necessary tasks / details with them
@@ -47,4 +45,5 @@ See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=voluntee
 - [ ] Ask volunteers to raise their hand at the event if they see a speaker or other volunteers with a hand up. This worked well at the Feb 2024 event to interrupt the crowd without having to do so abruptly.
 - [ ] Communicate with volunteers about where to park to unload and how to get into the building if they arrive before the doorbell is up.
 
-### Offered to Volunteer in the Future
+## Past Notes
+See our earlier [Volunteers](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) issues for past notes and context.

@@ -7,16 +7,13 @@ assignees: allella
 
 ---
 
-See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) issues for past notes and context.
-
-### Notes
+## Notes
 - The [SnackGreenville document](https://docs.google.com/document/d/1ZBEl61eH4kB6NVHqjrlEgnYyRrfONAyJoQXFcH5muaQ/edit#heading=h.374owrq3m4r2) has recent history, including the prices and amounts used for the HG Nights pilot taco bar.
 - For estimating, see our [past Event Attendance, Cancel, No Show, Walk-in, Food Eaten count and ratios doc](https://docs.google.com/spreadsheets/d/1ddyknPjweYzK-vJ2YWujshVpZGJWo9UVzfldlg8usmc/edit?gid=0#gid=0)
 - At a past event we had 5 out of 75 attendees indicate a dietary allergy / constraint, including: peanut, pecan, dairy, vegan, and vegetarian concerns. This confirms we should avoid some ingredients, or else have at least one option which will satisfy these types of concerns.
 
-### Menu
-
-### <span id="ideas">Ideas</span>
+## Menu
+<span id="ideas">Ideas</span>
 - Taco Bar
 - Chili Bar
 - Sandwich & Sliders Bar
@@ -46,24 +43,24 @@ See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues
   - Quesadilla Bar - not sure this is practical without an legit kitchen
   - Poutine bar
 
-### Food Volunteers
+## Food Volunteers
 - Confirmed:
 - Unconfirmed / Past: see the [past volunteer](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) threads for more details
 
-### Hot Plates,  Slow Cookers, Griddle
+## Hot Plates,  Slow Cookers, Griddle
 If we need these to keep things warm, then people offered.
 - @allella - 21" x 11" griddle
 - @allella - convection oven
 - @sirbeep - dual hot plate
 - @ThorntonMatthewD - has a couple of slow cookers and a hot plate
 
-### Budget
+## Budget
 - Volunteers making food will have a set amount per batch based on the assumed number of guests they will be feeding
 - Catering and recipes can typically be cut by 25-40%, as noted in the _SnackGreenville_ document (link above)
 - Earlier events have range from 55 to 75 people and not everyone will eat
 - Volunteers will be reimbursed by RefactorGVL by check as part of the [Post-Event Tasks and Wrap-up](https://github.com/hackgvl/nights/issues?q=wrap-up+in%3Atitle+is%3Aissue+is%3Aopen).
 
-### Other Food and Desserts
+## Other Food and Desserts
 - Toppings
 - We have previously done an ice cream sandwich handout about 15-20 minutes before the wrap-up, which requires a freezer at the host location, and about half of the remaining guests tend to partake.
 - Beer - Given the liability and added cost, this could remain a volunteer-only perk
@@ -75,7 +72,7 @@ If we need these to keep things warm, then people offered.
 - Soda
 - Bottled water - we typically provide cups and ice if there's tap water nearby, as there is at OpenWorks
 
-### Tasks (In-advance)
+## Tasks In Advance
 - [ ] Put out a call for volunteers
 - [ ] Dietary or allergy considerations - check to registration form responses
 - [ ] Instruct volunteers to save any receipts for reimbursement
@@ -89,9 +86,11 @@ If we need these to keep things warm, then people offered.
 - [ ] Determine if any prepared food needs to be refrigerated and confirm there is space - OpenWorks has a large and small refrigerator and there is typically space as long as the refrigerators have been cleaned out of old stuff
 - [ ] Determine if a freezer is needed and available at the venue. - OpenWorks has a very small freezer, so we'd definitely need to verify space in advance.
 - [ ] Determine if any convection ovens, hot plates, or insulating pads / coolers are need to keep food warm
-
 - [ ] Purchase any food, drinks, plates, napkins, etc in advance
 - [ ] Purchase volunteer beer and any special volunteer snacks.  A 15 mix pack. like Oskar Blues, is usually enough. 
 
-## Tasks (At the Venue)
+## Tasks at the Venue
 See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0#heading=h.3hs3hbasbgqy) (request view permission).
+
+## Past Notes
+See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) issues for past notes and context.

@@ -7,8 +7,7 @@ assignees: allella, pamelawoodbrowne
 
 ---
 
-See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion+in%3Atitle+is%3Aissue) issues for past notes and context.
-
+## Tasks In Advance
 - [ ] Confirm the event date and time and that the venue has been confirmed and RESERVED
 - [ ] Logo - Pam and Olivia created neon logo concepts. Jim has those files saved.
 - [ ] Create and promote on the [existing Meetup.com account](https://www.meetup.com/hack-greenville/)
@@ -42,3 +41,6 @@ See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion
   - [ ] Any street closures due to festivals, events at The Well, or downtown construction
   - [ ] Expectations for coming and going from rooms and social area
   - [ ] Accessibility - confirm handicap accessible parking and access to the building
+
+## Past Notes
+See our earlier [Promotion](https://github.com/hackgvl/nights/issues?q=promotion+in%3Atitle+is%3Aissue) issues for past notes and context.
