@@ -3,7 +3,7 @@ name: Audio, Video Recording, and Post-production
 about: Template for Audio, Video Recording, and Post-production for HG Nights
 title: 202_ Q_ Event - Audio, Video Recording, & Post-production
 labels: nights
-assignees: oliviasculley
+assignees: oliviasculley, tommyderami
 
 ---
 
