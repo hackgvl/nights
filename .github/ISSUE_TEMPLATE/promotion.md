@@ -14,7 +14,7 @@ assignees: allella, pamelawoodbrowne
   - [ ] Add themed banner / hero image and sponsor logo - see the [pilot event for an example](https://www.meetup.com/hack-greenville/events/296051672/)
   - [ ] Add a text AND link to the sponsor's website in the event post
   - [ ] Confirm any link to a sponsor is [ONLY to their homepage and not to a page for a specific product or service](https://www.councilofnonprofits.org/running-nonprofit/administration-and-financial-management/tax-treatment-income-received-corporate)
-  - [ ] Meetup only allows 1 question to be added to each event. We are currently collecting Topics of interests
+  - [ ] Meetup only allows 1 question to be added to each event. We are currently collecting Topics of interests, but consider using this field to also collect the name of any guests, so we can print a name tag for guests.
   - [ ] Add RefactorGVL text link to the bottom of the event description.
   - [ ] Food menu
   - [ ] Schedule
