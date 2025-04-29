@@ -2,7 +2,7 @@
 name: Sponsorship
 about: Template placeholder issue to direct sponsorship for HG Nights to the more
   private meta repo issue.
-title: HG Nights - 202_ Q_ Event - Sponsorship
+title: 202_ Q_ Event - Sponsorship
 labels: nights
 assignees: allella, pamelawoodbrowne
 

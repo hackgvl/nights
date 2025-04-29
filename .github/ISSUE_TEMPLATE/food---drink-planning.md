@@ -1,7 +1,7 @@
 ---
 name: Food & Drink Planning
 about: Template for organizing food and drinks for HG Nights
-title: HG Nights - 202_ Q_ Event - Food & Drink Planning
+title: 202_ Q_ Event - Food & Drink Planning
 labels: nights
 assignees: allella
 
