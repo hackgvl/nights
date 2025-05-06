@@ -9,14 +9,18 @@ assignees: oliviasculley, tommyderami
 
 See our earlier [Video and Post-production](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue) issues for past notes and context.
 
-## Past Volunteers
-- Olivia Sculley
-- Joey Loman (video equipment)
-- Andrew Thompson (audio equipment: microphone, wireless speaker)
-- Matt Thornton
+## Event Tasks
+| Role | Past Volunteer(s) |
+| ----------- | ----------- |
+| Header | Title |
+| Videography | Olivia Sculley, Matt Thornton |
+| Video Equipment | Joey Loman |
+| Audio Equipment: microphone, wireless speaker | Andrew Thompson |
+| Time Keeping | Andrew Thompson |
+| Editing & Post Online | Olivia Sculley |
 
-## Tasks at the Venue
-See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0) (request view permission).
+## Rough Timeline
+For more details and timeline see the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0) (request view permission).
 
 ## Post-event Tasks
 - [ ] Record videos
