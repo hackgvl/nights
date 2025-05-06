@@ -12,7 +12,6 @@ See our earlier [Video and Post-production](https://github.com/hackgvl/nights/is
 ## Event Tasks
 | Role | Past Volunteer(s) |
 | ----------- | ----------- |
-| Header | Title |
 | Videography | Olivia Sculley, Matt Thornton |
 | Video Equipment | Joey Loman |
 | Audio Equipment: microphone, wireless speaker | Andrew Thompson |
