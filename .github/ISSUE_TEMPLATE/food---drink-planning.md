@@ -11,6 +11,10 @@ assignees: allella
 - The [SnackGreenville document](https://docs.google.com/document/d/1ZBEl61eH4kB6NVHqjrlEgnYyRrfONAyJoQXFcH5muaQ/edit#heading=h.374owrq3m4r2) has recent history, including the prices and amounts used for the HG Nights pilot taco bar.
 - For estimating, see our [past Event Attendance, Cancel, No Show, Walk-in, Food Eaten count and ratios doc](https://docs.google.com/spreadsheets/d/1ddyknPjweYzK-vJ2YWujshVpZGJWo9UVzfldlg8usmc/edit?gid=0#gid=0)
 - At a past event we had 5 out of 75 attendees indicate a dietary allergy / constraint, including: peanut, pecan, dairy, vegan, and vegetarian concerns. This confirms we should avoid some ingredients, or else have at least one option which will satisfy these types of concerns.
+- See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) issues for past notes and context.
+
+## Food Volunteers
+See the [most recent Volunteer issue](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) for a list of committed volunteers and past volunteers.
 
 ## Menu
 <span id="ideas">Ideas</span>
@@ -43,13 +47,9 @@ assignees: allella
   - Quesadilla Bar - not sure this is practical without an legit kitchen
   - Poutine bar
 
-## Food Volunteers
-- Confirmed:
-- Unconfirmed / Past: see the [past volunteer](https://github.com/hackgvl/nights/issues?q=volunteers+in%3Atitle+is%3Aissue) threads for more details
-
-## Hot Plates,  Slow Cookers, Griddle
+## Resources - Hot Plates,  Slow Cookers, Griddle
 If we need these to keep things warm, then people offered.
-- @allella - 21" x 11" griddle
+- @allella - 21" x 11" griddle in OpenWorks kitchen cabinet
 - @allella - convection oven
 - @sirbeep - dual hot plate
 - @ThorntonMatthewD - has a couple of slow cookers and a hot plate
@@ -91,6 +91,3 @@ If we need these to keep things warm, then people offered.
 
 ## Tasks at the Venue
 See the ["at the venue" task list in Google Docs](https://docs.google.com/document/d/125rjwgs5GkJndW0W2NQOFAGp6f8dV33HrctWKhtORXk/edit?tab=t.0#heading=h.3hs3hbasbgqy) (request view permission).
-
-## Past Notes
-See our earlier [Food & Drink Planning](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) issues for past notes and context.
