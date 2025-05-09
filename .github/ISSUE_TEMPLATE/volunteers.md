@@ -17,7 +17,7 @@ assignees: allella
 | [Check-in Table](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) | | Violet Kester, Pam Wood Browne, Jacob Adelberg |
 | [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue) | | Jas Eckard, Paul |
 | [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)| Jim Ciallella | Jacob Adelberg, Matt Irby, Zach Robichaud, Bogdan Kharchenko, Austin Moede, Jack Brackley, Alex Dresko |
-| Photos | | Bogdan Kharchenko, Violet Kester, Alan Johnson, Pam Wood Browne |
+| Photos | | Archye Valdez, Bogdan Kharchenko, Violet Kester, Alan Johnson, Pam Wood Browne |
 | Time Keeping | | Andrew Thompson, Barry Jones |
 | [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) | | Barry Jones, Ryan Lanciaux, Steven Wade |
  
