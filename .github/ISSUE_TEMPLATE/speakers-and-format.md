@@ -22,10 +22,9 @@ assignees: allella
 6:35 - 6:40 — Break and Brief Community Announcements
 6:40 - 6:55 — TBD
 6:55 - 7:10
-
 - Break
 - Community Breakout Conversation
-
+- Community Whiteboard Recap
 7:10 - 7:20 — TBD
 7:20 - 7:35 — Break
 7:30 - 7:45 — TBD

@@ -22,7 +22,9 @@ assignees: allella, pamelawoodbrowne
 - [ ] Publish the Meetup listing and approve the announcement
 - [ ] [Add date and speakers to HG Nights website page](https://hackgreenville.com/hg-nights).
 - [ ] (Pam) _HG Nights_ themed Graphic with the schedule, sponsor logos / recognition, for large TV
-- [ ] Update Meetup page with the speakers and agenda by using a "Comment" on the event, not a message to the entire membership
+- [ ] When speakers and food are confirmed, usually weeks in advance, send an update to those RSVPed by either:
+  - Meetup allows up to 700 characters to send a "Comment" on the event.
+  - From the event page, the "Organizers Tools > Contact Attendees" can be used to message only those who have RSVPed 'Yes'.
 - [ ] Announce in the #events Slack channel
 - [ ] Announce on OpenWorks’ Basecamp
 - [ ] Announce HG Nights on the local Reddit, but NOT as a standalone post (which they may flag). Post as a comment to [the latest "What's Happening in Greenville?" post](https://www.reddit.com/r/greenville/search/?q=what%27s+happening+in+greenville&t=week).
@@ -34,7 +36,7 @@ assignees: allella, pamelawoodbrowne
 - [ ] Have organizers share on their own social media accounts
 - [ ] Considering mentioning any upcoming conferences
 - [ ] Swag - HackGreenville and/or Sponsor swag table
-- [ ] A day or so before the event, send a follow-up announcement to those who registered using the _TEMPLATE-hackgreenville-nights-meetup-message-to-attendees_ [template on Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb):
+- [ ] A day or so before the event, send a follow-up announcement to those who registered using the _TEMPLATE-hackgreenville-nights-meetup-message-to-attendees_ [template on Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb). On the event page, use the "Organizers Tools > Contact Attendees" feature to message only those who have RSVPed 'Yes'
   - [ ] Directions
   - [ ] Parking and parking deck fees
   - [ ]  Entrances / Doorbell - for OpenWorks we know have a guest access page, which could be shared in the Meetup listing and as a reminder a day or two before the event.
