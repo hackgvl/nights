@@ -31,6 +31,8 @@ assignees: allella
 7:45 - 8:00+ — Social and Ice Cream Bars
 
 ## Tasks In Advance
+
+### Talks / Speakers
 - [ ] Review the [HG Nights talk submissions spreadsheet](https://docs.google.com/spreadsheets/d/1jOvH-iBS9c84flUriNKxrvy25KTS8FnhHuto4PkaXt4/edit?gid=359534720#gid=359534720).  If there are more speakers than slots, then a suggested order of offering is:
   - [ ] First-time speakers with an official submission
   - [ ] Unofficial submissions (ideas gathered from Slack conversations) for first-time speakers
@@ -45,13 +47,16 @@ assignees: allella
   - [ ] Offer lightning talks to organizers of groups which are on hiatus or which have low attendance
   - [ ] Ask community partners to promote the call for speakers to their relevant audience
 - [ ] Have a backup speaker for when someone is sick or can’t make it.
-- [ ] Advise speakers to come with proper video adapters to connect their laptop via HDMI
-- [ ] TODO Consider grading the talks on skill / knowledge level: newbie, intermediate, advanced and having a mix of different levels
 - [ ] Email speakers with details of audio / video setup, share Wi-Fi details, time slots, timers, attendee expectations (like expecting people to come and go during the talks), video recording, [where to park and how to enter the building](https://joinopenworks.com/guest-access) using the [_TEMPLATE-hackgreenville-nights-pre-event-speaker-reminders-questions_ template on Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb)
-- [ ] Ask if speakers need any special equipment, like power cords, whiteboards & markers, podium, audio speakers, time clocks, projector
-- [ ] Suggest that speakers come early to test Wi-Fi, video, and other connections
-- [ ] Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording
-- [ ] One or two days before the event, reach out to the sponsor with notes about their 2-3 minute toast. See "[HG Nights - Sponsor Communications Examples](https://docs.google.com/document/d/1WKbh_MVxDDwmUQ4HLQNd6CKACxq34Icwhnyp0mgEyUE/)" for an example.
+  - Ask if speakers need any special equipment, like power cords, whiteboards & markers, podium, audio speakers, time clocks, projector
+  - Suggest that speakers come early to test Wi-Fi, video, and other connections
+  - Remind speakers to repeat any questions if they have a Q&A so the questions can be heard on the video recording
+  - Advise speakers to come with proper video adapters to connect their laptop via HDMI
+
+
+### Agenda
+- [ ] One or two days before the event, reach out to the sponsor with notes about their 2-3 minute toast. See [TEMPLATE-hackgreenville-nights-SPONSOR-communications-examples](https://docs.google.com/document/d/1WKbh_MVxDDwmUQ4HLQNd6CKACxq34Icwhnyp0mgEyUE/)
+- [ ] Generate final schedule and organizer announcements and notes - [TEMPLATE-hackgreenville-nights-schedule-and-talking-points-for-organizer](https://docs.google.com/document/d/1m8uEepEqRVLBF-wuD_tkLjXNyFA4WHK_5apciJEXfwM/edit?tab=t.0)
 
 ## Past Notes
 See our earlier [Post-event Tasks and Wrap-up](https://github.com/hackgvl/nights/issues?q=speakers%3Atitle+is%3Aissue) issues for past notes and context.

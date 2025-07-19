@@ -14,6 +14,8 @@ assignees: allella
 - [ ] Update [Meetup attendance (No Show, Walk-ins, Cancelled) and food & drink cost and consumption](https://docs.google.com/spreadsheets/d/1ddyknPjweYzK-vJ2YWujshVpZGJWo9UVzfldlg8usmc/edit?gid=0#gid=0) in the Google Doc
 - [ ] Pack and store leftover drinks, utensils, sign holders, and such 
 - [ ] Post wrap-up / thank you on Slack using the _TEMPLATE-hg-nights-wrap-up-thank-you-post-event_ [template in Google Drive](https://drive.google.com/drive/folders/17wq1n9VCUMTiyZSKHL61mW6Xte5DKWjb)
+- [ ] Save a copy of the post wrap-up as a PDF and save to Google Drive | HG > Nights > [wrap-ups](https://drive.google.com/drive/folders/1nFBfvn5haEoQE6aCX1XUkheSFmRBXiQw?usp=drive_link)
+- [ ] Upload event photos to Google Drive | HG > Nights > event-photos
 - [ ] Post presenter videos online
 - [ ] Clone the [GitHub issues templates for HG Nights](https://github.com/hackgvl/nights/issues/new/choose)  and apply the "202_ Q_ - HGN" label to each issues
 - [ ] Clone the [GitHub meta 'Sponsorship' issue template for HG Nights](https://github.com/hackgvl/meta/issues/new/choose) and apply the "202_ Q_ - HGN" label to the issue
