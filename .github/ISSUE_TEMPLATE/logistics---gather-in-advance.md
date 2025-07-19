@@ -8,11 +8,10 @@ assignees: allella
 ---
 
 ## Check-in / Guests
-- [ ] Gather any hand sanitizer
 - [ ] Gather tape needed for signs
 - [ ] Buy / source adhesive labels and green / orange / red highlighters for the check-in list
 - [ ] Gather extra name tag sheets (use the "removable" type as the regular Avery-style tags can fall off)
-- [ ] Gather black marker for walk-in guests to write on their name tags
+- [ ] Gather paper, pen, and black marker for walk-in guests to write on their name tags
 
 ## Name Tags
 - [ ] Print and gather name tags using the [existing templates on the Avery site](https://www.avery.com/myaccount/projects).
@@ -32,24 +31,28 @@ assignees: allella
   - [ ] Gather "neon" signs - Olivia created plug-in small neon color signs for HG Labs, HG Nights, and HackGreenville - These are plug-in and operated with the corresponding remotes. These are stored at OpenWorks. They do work on batteries, but none are currently in them.
 
 ## Speakers / Presenters
-[ ] Gather any audio, video cables, whiteboards, dry erase markers, erasers, podiums, time clocks, or video adapters that may be needed
+- [ ] Print two copies (MC and timekeeper) of the final [TEMPLATE-hackgreenville-nights-schedule-and-talking-points-for-organizer](https://docs.google.com/document/d/1m8uEepEqRVLBF-wuD_tkLjXNyFA4WHK_5apciJEXfwM/edit?tab=t.0)
+- [ ] Gather any audio, video cables, whiteboards, dry erase markers, erasers, podiums, time clocks, or video adapters that may be needed
 
 ## Food
-- [ ] Gather extension cords and power strips. Be sure the amperage and outlet distribution are sufficient for the load for any higher load appliances (ovens, crockpots, hot plates, microwave)
-- [ ] Gather, sanitize, and bring any knives, cutting boards, can openers, food processors, and other food preparing tools as needed
-- [ ] Gather all serving bowls, utensils, spoon rests for messy spoons 
-- [ ] Gather any to-go containers needed to store leftover food and/or to-go boxes to have volunteers or guests take home extra food. 
-- [ ] Gather and bring any heating devices, hot plates, chafing dish and racks, aluminum pans, Sternos, lighter / matches, convection ovens, oven mitts
-- [ ] Gather cleaning items, like vacuum or dust pan and broom, paper towels / sponges / rags, cleaning sprays for cleaning up the food area, scrub brushes and dish soap, trash bags
+- [ ] Extension cords and power strips. Be sure the amperage and outlet distribution are sufficient for the load for any higher load appliances (ovens, crockpots, hot plates, microwave)
+- [ ] Sanitize, knives, cutting boards, can openers, food processors, and other food preparing tools as needed
+- [ ] Serving bowls, utensils, spoon rests for messy spoons 
+- [ ] To-go containers needed to store leftover food and/or to-go boxes to have volunteers or guests take home extra food. 
+- [ ] Heating devices, hot plates, chafing dish and racks, aluminum pans, Sternos, lighter / matches, convection ovens, oven mitts
+- [ ] Cleaning items, like vacuum or dust pan and broom, paper towels / sponges / rags, cleaning sprays for cleaning up the food area, scrub brushes and dish soap, trash bags
 - [ ] Bus bucket / bin for dirty utensils, dishes and serving items 
 - [ ] Gather ice and cooler(s) or bins
 - [ ] Gather clean / drinking ice bucket and tongs for serving beverage ice 
-- [ ] Buy any groceries, beverages, consumables, aluminum foil, etc
+- [ ] Buy groceries, beverages, consumables, aluminum foil, etc
 - [ ] Prepare any food that needs to be made in advance
-- [ ] Pickup any food that being prepared by a third-party
+- [ ] Pickup food that being prepared by a third-party
 - [ ] Mason jars, or similar container, for storing forks, spoons, knives
 - [ ] Trivets or something to put under any very hot items that might come in contact with the wood counter tops
 - [ ] Towel(s) to put under any ice bins
+- [ ] Bag clips
+- [ ] Extra containers in case bags or packaging gets replaced
+- [ ] Extra crates and bags since bringing soda and stuff in early meant we had fewer things to pack the stuff
 
 ## Past Notes
 See our earlier [Logistics - Gather in Advance](https://github.com/hackgvl/nights/issues?q=gather+in%3Atitle+is%3Aissue) issues for past notes and context.

@@ -32,7 +32,8 @@ assignees: allella, pamelawoodbrowne
 - [ ] Ask Carolina Code School / Build Carolina to promote to their audience - ask Lauren McGlamery
 - [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
 - [ ] Invite local writers / journalists to attend and cover the event
-- [ ] Share on any social media accounts
+- [ ] Share on social media accounts.
+- [ ] Avoid posting an event on LinkedIn without disabling RSVP / attend feature
 - [ ] Have organizers share on their own social media accounts
 - [ ] Considering mentioning any upcoming conferences
 - [ ] Swag - HackGreenville and/or Sponsor swag table

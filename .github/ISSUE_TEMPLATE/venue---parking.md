@@ -10,6 +10,7 @@ assignees: allella
 - [ ] Confirm venue host is available
 - [ ] Confirm ample parking
 - [ ] Confirm fire code / occupancy limits on the event space
+- [ ] Check if there are smoke alarms and/or if smoke is likely to set off alarms
 - [ ] Confirm reservations for the rooms / space before announcing the event on Meetup.
 - [ ] **Reserve for at least an 90 minutes** before and after the event to allow for setup and breakdown.
 - [ ] Confirm Wi-Fi availability
