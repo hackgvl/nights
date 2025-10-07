@@ -23,11 +23,13 @@ New volunteers can connect via the _#community-organizers_ channel in [_HG Slack
 * The event date is often selected to give us 45 days to organize our volunteers.
 * For each event, we start by populating our [GitHub issues](https://github.com/hackgvl/nights/issues) from [issue templates](https://github.com/hackgvl/nights/tree/main/.github/ISSUE_TEMPLATE).
 * We also chit-chat in the [_HG Slack_](https://hackgreenville.com/join-slack) for quick conversations that don't benefit from being saved publically in a corresponding GitHub issue.
-* We use a Project view as a visual representation of the aforementioned issues, plus rough estimates of start dates and due dates for broad tasks.
+* We use a [Project Roadmap](https://github.com/orgs/hackgvl/projects/6) as a visualization of the aforementioned issues. The roadmap is simialar to a Gantt chart and includes assignees and estimates of start dates and due dates for broader issues.
+* Each issue includes tasks that can be checked off.
+* In a few cases, we include links to external documents when the nature of the tasks or process benefit from privacy or extra details that aren't easily convenved within GitHub conventions. 
 
 The event has typically happened 3 times a year
-* Winter - mid-to-late February
-* Spring - late May
-* Fall - late October
+* **Winter** - mid-to-late February
+* **Spring** - late May
+* **Fall** - late October
 
 We purposely avoid overlapping with the end-of-year holiday season and our [local tech conference](https://hackgreenville.com/orgs).
