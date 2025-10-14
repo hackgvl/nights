@@ -19,7 +19,11 @@ assignees: allella, pamelawoodbrowne
 - [ ] Announce in the #events Slack channel
 - [ ] Announce on OpenWorks’ Basecamp
 (https://www.reddit.com/r/greenville/search/?q=what%27s+happening+in+greenville&t=week).
-- [ ] Share via on other community boards / mailing lists - Synergy Mill, Beer & Napkins, StartUpGVL Slack, any other Meetup groups?
+- [ ] Share via on other community boards / mailing lists, etc
+  - [ ] DC864 Discord
+  - [ ] Synergy Mill
+  - [ ] StartUpGVL Slack
+  - [ ] Beer & Napkins
 - [ ] Ask Build Carolina (Lauren McGlamery) to promote to their audience
 - [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
 - [ ] Invite local writers / journalists to attend and cover the event
