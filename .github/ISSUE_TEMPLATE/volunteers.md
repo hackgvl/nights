@@ -9,7 +9,7 @@ assignees: allella
 
 ## Volunteers
 
-| Role | Confirmed | Unconfirmed |
+| Role | Confirmed for this Event | Past / Potential Volunteers |
 | ----------- | ----------- | ----------- |
 | [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) | Jim Ciallella | Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Alex Dresko, Ryan McAllen, Creighton Magoun, David He, Kristin LaRoche |
 | [Video](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue) | | Olivia Sculley Andrew, Thompson (mic, speaker), Joey Loman (equipment), Matt Thornton |
@@ -18,8 +18,8 @@ assignees: allella
 | [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue) | | Jas Eckard, Paul |
 | [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)| Jim Ciallella | Jacob Adelberg, Matt Irby, Zach Robichaud, Bogdan Kharchenko, Austin Moede, Jack Brackley, Alex Dresko |
 | Photos | | Archye Valdez, Bogdan Kharchenko, Violet Kester, Alan Johnson, Pam Wood Browne |
-| Time Keeping | | Andrew Thompson, Barry Jones |
-| [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) | | Barry Jones, Ryan Lanciaux, Steven Wade |
+| Timekeeping & Microphone | | Andrew Thompson, Barry Jones |
+| [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) | Jim Ciallella | Barry Jones, Ryan Lanciaux, Steven Wade |
  
 ## Tasks In Advance
 - [ ] Get commitments from volunteers for the upcoming event
