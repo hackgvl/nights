@@ -18,7 +18,7 @@ assignees: allella
 | [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue) | | Jas Eckard, Paul |
 | [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)| Jim Ciallella | Jacob Adelberg, Matt Irby, Zach Robichaud, Bogdan Kharchenko, Austin Moede, Jack Brackley, Alex Dresko |
 | Photos | | Archye Valdez, Bogdan Kharchenko, Violet Kester, Alan Johnson, Pam Wood Browne |
-| Timekeeping & Microphone | | Andrew Thompson, Barry Jones |
+| HDMI Testing, Timekeeping, & Microphone | | Andrew Thompson, Barry Jones |
 | [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) | Jim Ciallella | Barry Jones, Ryan Lanciaux, Steven Wade |
  
 ## Tasks In Advance
