@@ -11,12 +11,12 @@ assignees: allella
 
 | Role | Confirmed for this Event | Past / Potential Volunteers |
 | ----------- | ----------- | ----------- |
-| [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) | Jim Ciallella | Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Alex Dresko, Ryan McAllen, Creighton Magoun, David He, Kristin LaRoche |
+| [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) | Jim Ciallella | Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Bogdan Kharchenko, Alex Dresko, Ryan McAllen, Creighton Magoun, David He, Kristin LaRoche |
 | [Video](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue) | | Olivia Sculley Andrew, Thompson (mic, speaker), Joey Loman (equipment), Matt Thornton |
-| [Setup](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) | Jim Ciallella | Jacob Adelberg, Matt Irby, Pam Wood Browne, Zach Robichaud, Bogdan Kharchenko, Jack Brackley, Alex Dresko, Austin Moede, Archye Valdez |
+| [Setup](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) | Jim Ciallella | Jacob Adelberg, Matt Irby, Pam Wood Browne, Zach Robichaud, Bogdan Kharchenko, Dave Brothers, Matt Mysell, Jack Brackley, Alex Dresko, Archye Valdez |
 | [Check-in Table](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) | | Violet Kester, Pam Wood Browne, Jacob Adelberg |
 | [Promo Whiteboard](https://github.com/hackgvl/nights/issues?q=whiteboard+in%3Atitle+is%3Aissue) | | Jas Eckard, Paul |
-| [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)| Jim Ciallella | Jacob Adelberg, Matt Irby, Zach Robichaud, Bogdan Kharchenko, Austin Moede, Jack Brackley, Alex Dresko |
+| [Breakdown](https://github.com/hackgvl/nights/issues?q=breakdown+in%3Atitle+is%3Aissue)| Jim Ciallella | Jacob Adelberg, Matt Irby, Zach Robichaud, Bogdan Kharchenko, Dave Brothers, Matt Mysell, Jack Brackley, Alex Dresko |
 | Photos | | Archye Valdez, Bogdan Kharchenko, Violet Kester, Alan Johnson, Pam Wood Browne |
 | HDMI Testing, Timekeeping, & Microphone | | Andrew Thompson, Barry Jones |
 | [Speakers Outreach & Coordination](https://github.com/hackgvl/nights/issues?q=speakers+format+in%3Atitle+is%3Aissue) | Jim Ciallella | Barry Jones, Ryan Lanciaux, Steven Wade |
