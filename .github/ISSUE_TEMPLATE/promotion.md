@@ -24,7 +24,6 @@ assignees: allella, pamelawoodbrowne
   - [ ] Synergy Mill
   - [ ] StartUpGVL Slack
   - [ ] Beer & Napkins
-- [ ] Ask Build Carolina (Lauren McGlamery) to promote to their audience
 - [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
 - [ ] Invite local writers / journalists to attend and cover the event
 - [ ] Considering mentioning any upcoming conferences
