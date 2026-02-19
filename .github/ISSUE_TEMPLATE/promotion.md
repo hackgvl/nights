@@ -18,11 +18,10 @@ assignees: allella, pamelawoodbrowne
   - From the event page, the "Organizers Tools > Contact Attendees" can be used to message only those who have RSVPed 'Yes'.
 - [ ] Announce in the #events Slack channel
 - [ ] Announce on OpenWorks’ Basecamp
-(https://www.reddit.com/r/greenville/search/?q=what%27s+happening+in+greenville&t=week).
-- [ ] Share via on other community boards / mailing lists, etc
-  - [ ] DC864 Discord
-  - [ ] Synergy Mill
-  - [ ] StartUpGVL Slack
+- [ ] Share on other community boards / mailing lists, etc
+  - [ ] DC864 Discord in the #training-and-events channel
+  - [ ] Synergy Mill Slack #events channel
+  - [ ] StartUpGVL Slack #events channel
   - [ ] Beer & Napkins
 - [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
 - [ ] Invite local writers / journalists to attend and cover the event
@@ -33,6 +32,7 @@ assignees: allella, pamelawoodbrowne
 - [ ] See the [_HG Nights_ Social Media Posting Guide](https://docs.google.com/document/d/1FpgtQziEI5_3TLiRE_zjC6gzXCZ7on9DEYShtvu2UKw/edit?tab=t.0#heading=h.imsv5n75gdbc) for tips and warnings about the platforms we use.
 - [ ] Share on social media accounts.
 - [ ] Have organizers share on their own social media accounts
+- Note: Reddit should probably be avoided because posting in the correct, weekly events post in #greenville contributed to a member getting a shadow ban with no response from Reddit for over a year to help unban the account.
 
 ## Meetup / Event Platform Post
 - [ ] Create and promote on the [existing Meetup.com account](https://www.meetup.com/hack-greenville/)
