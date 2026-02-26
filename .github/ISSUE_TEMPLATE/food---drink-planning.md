@@ -18,6 +18,7 @@ See the [most recent Volunteer issue](https://github.com/hackgvl/nights/issues?q
 
 ## Menu
 <span id="ideas">Ideas</span>
+- Casserole Corral
 - Taco Bar
 - Chili Bar
 - Sandwich & Sliders Bar
