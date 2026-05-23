@@ -52,7 +52,9 @@ See the [most recent Volunteer issue](https://github.com/hackgvl/nights/issues?q
 If we need these to keep things warm, then people offered.
 - @allella - 21" x 11" griddle in OpenWorks kitchen cabinet
 - @allella - convection oven
+- @allella - two 6 quart slow cookers
 - @sirbeep - dual hot plate
+- @galengidman - roaster with a lid | roughly 16-1/2" x 10-1/4" x 6"
 - @ThorntonMatthewD - has a couple of slow cookers and a hot plate
 
 ## Budget
