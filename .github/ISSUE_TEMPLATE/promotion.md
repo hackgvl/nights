@@ -12,7 +12,9 @@ assignees: allella, pamelawoodbrowne
 - [ ] [Generate banners and other social media / promotion graphics](https://docs.google.com/document/d/1FpgtQziEI5_3TLiRE_zjC6gzXCZ7on9DEYShtvu2UKw/edit?tab=t.0#heading=h.6xqjo2iwmfu)
 - [ ] When referencing the sponsor (Slack, Meetup, etc), include a hyperlink to their homepage or social media profile page.  [Avoid linking to a specific product or service](https://www.councilofnonprofits.org/running-nonprofit/administration-and-financial-management/tax-treatment-income-received-corporate).
 - [ ] [Add date and speakers to HG Nights website page](https://hackgreenville.com/hg-nights).
-- [ ] Create _HG Nights_ themed Graphic with the schedule, sponsor logos / recognition, for large TV
+- [ ] [Edit the _HG Nights_ themed TV display graphic](https://www.canva.com/design/DAHK-e0GYB4/Y-1p7BG8JaKHyJEc5qkb1A/edit) with the schedule, sponsor logos / recognition
+  - [ ] Share the TV graphic file with the A/V team for use in the speaker room between talks
+  - [ ] Copy the TV graphic file to a computer for driving the main TV display
 - [ ] When speakers and food are confirmed, usually weeks in advance, send an update to those RSVPed by either:
   - Meetup allows up to 700 characters to send a "Comment" on the event.
   - From the event page, the "Organizers Tools > Contact Attendees" can be used to message only those who have RSVPed 'Yes'.
