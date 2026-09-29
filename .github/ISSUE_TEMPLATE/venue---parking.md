@@ -20,5 +20,5 @@ assignees: allella
 - [ ] Confirm with venue availability of any needed TVs, audio / video equipment, power cords, electrical outlets, whiteboards / markers / erasers, podiums, time clocks, audio speakers, projects & screens.
 - [ ] Take photos of the space and figure out a layout for talks, food, socializing, check-in area, entrances and emergency exits, restrooms
 - [ ] Prepare directions for parking and getting into the location. [OpenWorks has a detailed page for guest access](https://joinopenworks.com/guest-access)
-- [ ] Check for and announce any [road closures](https://citygis.greenvillesc.gov/Html5Viewer/Index.html?viewer=roadclosures), special events, events at The Well or baseball stadium, that may impact parking or getting to the event. Pass this along to the Promotions lead to be announced to attendees
+- [ ] Check for any [road closures](https://www.greenvillesc.gov/live-road-closures), special events, events at [The Well](https://www.bonsecoursarena.com/upcoming-events/calendar), [Peace Center](https://www.peacecenter.org/events) or [baseball stadium](https://www.milb.com/greenville/schedule), that may impact parking or getting to the event. Pass this along to the Promotions lead to be announced to attendees
 - [ ] Confirm with the venue and security, emergency exits, fire extinguisher locations, emergency protocols
