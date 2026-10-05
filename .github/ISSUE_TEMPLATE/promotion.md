@@ -9,7 +9,7 @@ assignees: allella, pamelawoodbrowne
 
 ## General Tasks
 - [ ] Confirm the event date, time, and venue reservation
-- [ ] [Generate banners and other social media / promotion graphics](https://docs.google.com/document/d/1FpgtQziEI5_3TLiRE_zjC6gzXCZ7on9DEYShtvu2UKw/edit?tab=t.0#heading=h.6xqjo2iwmfu)
+- [ ] Generate banners and other social media / promotion graphics
 - [ ] When referencing the sponsor (Slack, Meetup, etc), include a hyperlink to their homepage or social media profile page.  [Avoid linking to a specific product or service](https://www.councilofnonprofits.org/running-nonprofit/administration-and-financial-management/tax-treatment-income-received-corporate).
 - [ ] [Add date and speakers to HG Nights website page](https://hackgreenville.com/hg-nights).
 - [ ] [Edit the _HG Nights_ themed TV display graphic](https://www.canva.com/design/DAHK-e0GYB4/Y-1p7BG8JaKHyJEc5qkb1A/edit) with the schedule, sponsor logos / recognition
@@ -18,25 +18,26 @@ assignees: allella, pamelawoodbrowne
 - [ ] When speakers and food are confirmed, usually weeks in advance, send an update to those RSVPed by either:
   - Meetup allows up to 700 characters to send a "Comment" on the event.
   - From the event page, the "Organizers Tools > Contact Attendees" can be used to message only those who have RSVPed 'Yes'.
+- [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
+- [ ] Invite local writers / journalists to attend and cover the event
+- [ ] Considering mentioning any upcoming conferences
+- [ ] Swag - HackGreenville and/or Sponsor swag table
+
+## Post to Social Media, Community Chat Boards, and Calendars
+- [ ] See the [_HG Nights_ Social Media Posting Guide](https://docs.google.com/document/d/1FpgtQziEI5_3TLiRE_zjC6gzXCZ7on9DEYShtvu2UKw/edit?tab=t.0#heading=h.imsv5n75gdbc) for tips and warnings about the platforms we use.
+- [ ] Coordinate with the social media volunteer(s) to generate [drafts for social media and community resources](https://docs.google.com/document/d/1Yzn6aOBuMBxIX_e0v6AnyNweF7CyXBAlJKtmuoJi2ME/edit) from the [merge templates](https://docs.google.com/document/d/1FpgtQziEI5_3TLiRE_zjC6gzXCZ7on9DEYShtvu2UKw/edit?tab=t.0).
+- [ ] Share on social media accounts.
+- [ ] Have organizers share on their own social media accounts
 - [ ] Announce in the HackGreenville #events Slack channel
 - [ ] Share on other community boards / mailing lists, etc
   - [ ] DC864 Discord in the #training-and-events channel
   - [ ] Synergy Mill Slack #events channel
   - StartUpGVL
     - [ ] Slack #events channel
-    - [ ] Ask them to post on the [StartupGVL calendar](https://startupgvl.com/events/)
+    - [ ] Email NextGEN to post on the [StartupGVL calendar](https://startupgvl.com/events/)
   - [ ] Beer & Napkins
   - [ ] OpenWorks - Basecamp calendar
-- [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
-- [ ] Invite local writers / journalists to attend and cover the event
-- [ ] Considering mentioning any upcoming conferences
-- [ ] Swag - HackGreenville and/or Sponsor swag table
-
-## Social Media
-- [ ] See the [_HG Nights_ Social Media Posting Guide](https://docs.google.com/document/d/1FpgtQziEI5_3TLiRE_zjC6gzXCZ7on9DEYShtvu2UKw/edit?tab=t.0#heading=h.imsv5n75gdbc) for tips and warnings about the platforms we use.
-- [ ] Share on social media accounts.
-- [ ] Have organizers share on their own social media accounts
-- Note: Reddit should probably be avoided because posting in the correct, weekly events post in #greenville contributed to a member getting a shadow ban with no response from Reddit for over a year to help unban the account.
+  - Note: Reddit should probably be avoided because posting in the correct, weekly events post in #greenville contributed to a member getting a shadow ban with no response from Reddit for over a year to help unban the account.
 
 ## Meetup / Event Platform Post
 - [ ] Create and promote on the [existing Meetup.com account](https://www.meetup.com/hack-greenville/)

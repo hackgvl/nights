@@ -11,7 +11,7 @@ assignees: allella
 
 | Role | Confirmed for this Event | Past / Potential Volunteers |
 | ----------- | ----------- | ----------- |
-| [Setup / Breakdown](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) | Jim Ciallella | Jacob Adelberg, Matt Friede, Matt Irby, Pam Wood Browne, Bill Seely, Jonathan Simpson, Matt Dodds, Anthony Lassiter, Jen Bauer, Robert Roskam, Zach Robichaud, Bogdan Kharchenko, Dave Brothers, Matt Mysell, Jack Brackley, Alex Dresko, Archye Valdez, Doug Cone |
+| [Setup / Breakdown](https://github.com/hackgvl/nights/issues?q=check-in+in%3Atitle+is%3Aissue) | Jim Ciallella | Jacob Adelberg, Matt Friede, Matt Irby, Pam Wood Browne, Bill Seely, Jonathan Simpson, Matt Dodds, Anthony Lassiter, Jen Bauer, Robert Roskam, Zach Robichaud, Bogdan Kharchenko, Dave Brothers, Matt Mysell, Jack Brackley, Alex Dresko, Archye Valdez, Doug Cone, Galen Gidman |
 | [Food & Drinks](https://github.com/hackgvl/nights/issues?q=food+planning+in%3Atitle+is%3Aissue) | Jim Ciallella | Joel Griffith, Eric Anderson, Brian Kennedy, Sally Anderson, Bogdan Kharchenko, Alex Dresko, Ryan McAllen, Creighton Magoun, David He, Kristin LaRoche |
 | [Video](https://github.com/hackgvl/nights/issues?q=video+in%3Atitle+is%3Aissue) | | Olivia Sculley Andrew, Thompson (mic, speaker), Joey Loman (equipment), Matt Thornton |
 | Audio, Testing, Timekeeping, & Microphone | | Andrew Thompson, Barry Jones |
