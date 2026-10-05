@@ -28,7 +28,7 @@ See the [most recent Volunteer issue](https://github.com/hackgvl/nights/issues?q
   - Brunch Bar
   - Soup Bar
   - Greek / Mediterranean / Mezze Bar - falafel, kofta, kebabs, couscous, tabbouleh, hummus, a bunch of dips, pita, flat bread, olives, etc.
-  - Banh Mi Bar
+  - Banh Mi Bar (name idea "Bahn Mi Up Scotty")
   - Nacho Bar
   - Rice Bowl Bar
   - Tapas Bar - east Indian or Middle Eastern mentioned
