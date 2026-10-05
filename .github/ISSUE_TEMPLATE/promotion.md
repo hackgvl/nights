@@ -18,13 +18,15 @@ assignees: allella, pamelawoodbrowne
 - [ ] When speakers and food are confirmed, usually weeks in advance, send an update to those RSVPed by either:
   - Meetup allows up to 700 characters to send a "Comment" on the event.
   - From the event page, the "Organizers Tools > Contact Attendees" can be used to message only those who have RSVPed 'Yes'.
-- [ ] Announce in the #events Slack channel
-- [ ] Announce on OpenWorks’ Basecamp
+- [ ] Announce in the HackGreenville #events Slack channel
 - [ ] Share on other community boards / mailing lists, etc
   - [ ] DC864 Discord in the #training-and-events channel
   - [ ] Synergy Mill Slack #events channel
-  - [ ] StartUpGVL Slack #events channel
+  - StartUpGVL
+    - [ ] Slack #events channel
+    - [ ] Ask them to post on the [StartupGVL calendar](https://startupgvl.com/events/)
   - [ ] Beer & Napkins
+  - [ ] OpenWorks - Basecamp calendar
 - [ ] Coordinate with the volunteer who is taking photos at the event for use in future promotions for HG Nights and other HG things.
 - [ ] Invite local writers / journalists to attend and cover the event
 - [ ] Considering mentioning any upcoming conferences
