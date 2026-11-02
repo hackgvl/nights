@@ -31,6 +31,7 @@ assignees: allella, pamelawoodbrowne
 - [ ] Announce in the HackGreenville #events Slack channel
 - [ ] Share on other community boards / mailing lists, etc
   - [ ] DC864 Discord in the #training-and-events channel
+  - [ ] GVL Game Devs Discord in the #tech-community channel
   - [ ] Synergy Mill Slack #events channel
   - StartUpGVL
     - [ ] Slack #events channel
